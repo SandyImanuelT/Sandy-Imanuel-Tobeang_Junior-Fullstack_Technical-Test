@@ -14,7 +14,7 @@ Butuh 2 Wadah yaitu Wadah berisi buah import dan local :
 	- Wadah Import :
 		1. Apel
 		2. Kurma
-- Wadah Local :
+	- Wadah Local :
 		1. Manggis
 		2. Jeruk Bali
 		3. Salak
